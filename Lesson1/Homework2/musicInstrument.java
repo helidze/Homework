@@ -1,0 +1,15 @@
+package Homework1;
+
+/**
+ * Created by George on 18.02.2016.
+ */
+public class musicInstrument {
+    int newInstrument;
+    int old;
+    int antique;
+    int stringed;
+    int winged;
+    int keyboarded;
+
+    public void play(){musicInstrument}
+}
