@@ -4,8 +4,8 @@ package Homework1;
  * Created by George on 18.02.2016.
  */
 public class Food {
-    int experationDate;
-    int creationDate;
+    double experationDate;
+    double creationDate;
     int consistency;
     int taste;
     int box;

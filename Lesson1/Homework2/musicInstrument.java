@@ -4,7 +4,7 @@ package Homework1;
  * Created by George on 18.02.2016.
  */
 public class musicInstrument {
-    int newInstrument;
+    String newInstrument;
     int old;
     int antique;
     int stringed;
