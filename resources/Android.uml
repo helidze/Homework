@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lesson2.homework2.Android</OriginalElement>
+  <nodes>
+    <node x="-206.5" y="95.0">lesson2.homework2.Android</node>
+    <node x="218.0" y="-127.0">lesson2.homework2.Store</node>
+    <node x="226.0" y="26.0">lesson2.homework2.Shipper</node>
+    <node x="-203.0" y="-117.0">lesson2.homework2.Phone</node>
+    <node x="-202.0" y="276.0">lesson2.homework2.SamsungPhone</node>
+    <node x="187.0" y="298.0">lesson2.homework2.SensorPhone</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="lesson2.homework2.Android" target="lesson2.homework2.Phone">
+      <point x="0.0" y="-70.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="lesson2.homework2.Store" target="lesson2.homework2.Shipper">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="lesson2.homework2.Shipper" target="lesson2.homework2.Phone">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="lesson2.homework2.SamsungPhone" target="lesson2.homework2.Android">
+      <point x="0.0" y="-70.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="lesson2.homework2.SensorPhone" target="lesson2.homework2.SamsungPhone">
+      <point x="0.0" y="-70.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9521367521367521" x="120.0" y="155.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
