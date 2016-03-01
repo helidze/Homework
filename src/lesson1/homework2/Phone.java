@@ -1,3 +1,5 @@
+package lesson1.homework2;
+
 public class Phone {
     int IMEI;
     int dynamic;
